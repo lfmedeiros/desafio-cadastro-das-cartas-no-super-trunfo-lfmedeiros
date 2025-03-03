@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Super Trunfo - Versão Amador \n");
     // Variáveis para a primeira carta
     char estado1;
     int cidade1;
